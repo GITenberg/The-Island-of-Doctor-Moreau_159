@@ -1,0 +1,70 @@
+_repo: The-Island-of-Doctor-Moreau_159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The Island of Doctor Moreau is an 1896 science fiction novel by H. G.\
+  \ Wells, who called it \"an exercise in youthful blasphemy\". The text of the novel\
+  \ is the narration of Edward Prendick, a shipwrecked man rescued by a passing boat\
+  \ who is left on the island home of Doctor Moreau, who creates human-like hybrid\
+  \ beings from animals via vivisection. The novel deals with a number of philosophical\
+  \ themes, including pain and cruelty, moral responsibility, human identity, and\
+  \ human interference with nature.\nAt the time of the novel's publication in 1896,\
+  \ there was growing discussion in Europe regarding degeneration and animal vivisection.\
+  \ Several interest groups were formed to oppose vivisection, the two largest being\
+  \ the National Anti-Vivisection Society in 1875 and the British Union for the Abolition\
+  \ of Vivisection in 1898.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Science Fiction
+- Movie Books
+gutenberg_issued: '2004-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '159'
+  wikidata: Q718268
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- !lcsh 'Animal experimentation -- Fiction'
+- !lcsh 'Shipwreck survival -- Fiction'
+- GITenberg
+title: The Island of Doctor Moreau
+url: http://www.gutenberg.org/ebooks/159
+wikipedia:
+- https://fi.wikipedia.org/wiki/Tohtori_Moreaun_saari
+- https://en.wikisource.org/wiki/The_Island_of_Doctor_Moreau
+- https://uk.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%9C%D0%BE%D1%80%D0%BE
+- https://pl.wikiquote.org/wiki/Wyspa_doktora_Moreau
+- https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%BC%E5%8D%9A%E5%A3%AB%E3%81%AE%E5%B3%B6
+- https://pt.wikipedia.org/wiki/The_Island_of_Dr._Moreau
+- https://es.wikipedia.org/wiki/La_isla_del_doctor_Moreau
+- https://hy.wikipedia.org/wiki/%D4%B4%D5%B8%D5%AF%D5%BF%D5%B8%D6%80_%D5%84%D5%B8%D6%80%D5%B8%D5%B5%D5%AB_%D5%AF%D5%B2%D5%A6%D5%AB%D5%B6
+- https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%9C%D0%BE%D1%80%D0%BE
+- https://ro.wikipedia.org/wiki/Insula_doctorului_Moreau
+- https://fr.wikipedia.org/wiki/L%27%C3%8Ele_du_docteur_Moreau
+- https://zh.wikipedia.org/wiki/%E8%8E%AB%E6%B4%9B%E5%8D%9A%E5%A3%AB%E5%B2%9B
+- https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau
+- https://pl.wikipedia.org/wiki/Wyspa_doktora_Moreau_(powie%C5%9B%C4%87)
+- https://sv.wikipedia.org/wiki/Doktor_Moreaus_%C3%B6
+- https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1_%D9%85%D9%88%D8%B1%D9%88
+- https://nl.wikipedia.org/wiki/Het_eiland_van_dokter_Moreau
+- https://cs.wikipedia.org/wiki/Ostrov_doktora_Moreaua
+- https://de.wikipedia.org/wiki/Die_Insel_des_Dr._Moreau
+- https://eu.wikipedia.org/wiki/Moreau_Doktorearen_Uhartea
+- https://bg.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%8A%D1%82_%D0%BD%D0%B0_%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%BE%D1%80%D0%BE
+- https://it.wikipedia.org/wiki/L%27isola_del_dottor_Moreau
+- https://ca.wikipedia.org/wiki/L%27illa_del_doctor_Moreau
+- https://tr.wikipedia.org/wiki/Dr._Moreau%27nun_Adas%C4%B1_(roman)
+- https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%99_%D7%A9%D7%9C_%D7%93%22%D7%A8_%D7%9E%D7%95%D7%A8%D7%95
