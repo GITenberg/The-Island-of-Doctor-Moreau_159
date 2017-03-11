@@ -1,5 +1,8 @@
 _repo: The-Island-of-Doctor-Moreau_159
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -20,6 +23,8 @@ description: "The Island of Doctor Moreau is an 1896 science fiction novel by H.
   \ Several interest groups were formed to oppose vivisection, the two largest being\
   \ the National Anti-Vivisection Society in 1875 and the British Union for the Abolition\
   \ of Vivisection in 1898.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/159#The-Island-of-Doctor-Moreau
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Science Fiction
